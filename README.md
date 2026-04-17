@@ -53,5 +53,7 @@ Curated travel packages showcasing diverse isolated environments:
 ## ✒️ Credits
 * **Design & Development:** Ranjan Das
 
+* IF you like this , give the repo a ⭐.
+
 ---
 *Note: This project is designed as a luxury landing page focused on high-end travel and immersive UI/UX.*
